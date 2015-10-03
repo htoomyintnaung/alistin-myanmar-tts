@@ -1,9 +1,9 @@
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\bin\Debug\TTSTry.exe
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\bin\Debug\TTSTry.pdb
+C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\bin\Debug\Interop.SpeechLib.dll
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\TTSTry.Form1.resources
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\TTSTry.Properties.Resources.resources
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\TTSTry.csproj.GenerateResource.Cache
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\TTSTry.exe
 C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\obj\Debug\TTSTry.pdb
-C:\Projects\MyMyanmar\TTS\TTSTry\TTSTry\bin\Debug\Interop.SpeechLib.dll

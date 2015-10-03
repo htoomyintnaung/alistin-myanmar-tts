@@ -79,7 +79,7 @@
             this.label1.Font = new System.Drawing.Font("MyMyanmar", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(-57, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(867, 53);
+            this.label1.Size = new System.Drawing.Size(855, 53);
             this.label1.TabIndex = 1;
             this.label1.Text = "Myanmar Text To Speech - ကွန်​ပျူ​တာ​မြန်​မာ​အ​သံ​ထွက်​စ​နစ်​";
             // 
